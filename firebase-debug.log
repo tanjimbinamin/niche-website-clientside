@@ -1,0 +1,21 @@
+[debug] [2021-11-15T17:39:23.765Z] ----------------------------------------------------------------------
+[debug] [2021-11-15T17:39:23.768Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\samiu\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-11-15T17:39:23.769Z] CLI Version:   9.22.0
+[debug] [2021-11-15T17:39:23.769Z] Platform:      win32
+[debug] [2021-11-15T17:39:23.769Z] Node Version:  v14.16.0
+[debug] [2021-11-15T17:39:23.771Z] Time:          Mon Nov 15 2021 23:39:23 GMT+0600 (Bangladesh Standard Time)
+[debug] [2021-11-15T17:39:23.771Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-11-15T17:39:23.787Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-11-15T17:39:23.787Z] > authorizing via signed-in user (1827033himel@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\CWD-4\assignment-12\assignment_12_client side\motobot
+

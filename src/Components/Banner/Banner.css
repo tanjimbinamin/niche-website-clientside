@@ -1,0 +1,7 @@
+.bg-image{
+    background-image: url("./img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 20rem;
+    background-attachment:fixed;
+}
